@@ -3,7 +3,7 @@ function connectionBDD()
 {
     $servername = "127.0.0.1";
     $username = "root";
-    $password = "123456";
+    $password = "0000";
 
     try {
         $conn = new PDO("mysql:host=$servername;dbname=parfumerie", $username, $password);

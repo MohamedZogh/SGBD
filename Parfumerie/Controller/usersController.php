@@ -28,6 +28,7 @@ switch($fctn){
 function getUser(){
     $pseudo=test_input($_POST['pseudo']);
     $password=test_input($_POST['password']);
+    $password=sha1($password);
     try {
         $conn = connectionBDD();
         $stmt = $conn->prepare("SELECT * FROM users WHERE pseudo= '$pseudo' and password= '$password'");
@@ -52,6 +53,7 @@ function getUser(){
 function setUser(){
     $pseudo=test_input($_POST['pseudo']);
     $password=test_input($_POST['password']);
+    $password=sha1($password);
     $role=test_input($_POST['role']);
     $sexe=test_input($_POST['sexe']);
     if ($sexe != 0 && $sexe !=1){
@@ -83,6 +85,7 @@ function setUser(){
 
 function putUser(){
     $password=test_input($_POST['password']);
+    $password=sha1($password);
     $role=test_input($_POST['role']);
     $pseudo=test_input($_POST['pseudo']);
     if ($pseudo ==''){

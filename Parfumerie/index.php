@@ -5,7 +5,7 @@ if (!isset($_SESSION['role'])){
         $_SESSION['role']='Guest';
     }
     else{
-        header('Location: http://localhost/IT-akademy/Parfumerie/login.php');
+        header('Location: login.php');
         exit();
     }
 }
