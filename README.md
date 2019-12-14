@@ -3,7 +3,7 @@ Ce dossier contient un tp réaliser l'année de Licence Professionnelle au sein 
 Son but est la réalisation de CRUD d'une base de données de produits et la mise en place d'un système utilisateur sécurisé.
 De plus nous devions ajouter une jointure et un système panier avec téléchargement dune facture.<br>
 Cloner le dossier, et changer les droit du dossier IT-akademy en 77 (ainsi que pour les sous dossier).
-Télécharger la base de données jointe <br>
+Télécharger la base de données jointe. <br>
 Créez une base de donnée pafumerie et importez celle jointe.<br>
 Rendez-vous sur "localhost/IT-akademy/Parfumerie/index.php". <br>
 Identifiants :<br>
