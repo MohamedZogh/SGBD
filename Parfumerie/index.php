@@ -64,7 +64,7 @@ $users=getAllUsers();
                                 echo '<button type="button" class="btn" data-toggle="modal" data-target="#exampleModalCenter" style="width:100% !important; background-color: #1c8adb; ">Gestion</button>';
                             }
                         }
-                        if (isset($_SESSION['role']) && $_SESSION['role']== 'Admin' || $_SESSION['role']== 'User') {
+                        if (isset($_SESSION['role']) && $_SESSION['role'] == 'Admin' || $_SESSION['role']== 'User') {
                             echo'<div class="dropdown-divider"></div>
                                     <button type="button" class="btn" onclick="logout()" style="width:100% !important; background-color: #1c8adb">Deconnexion</button>
                                 </div>

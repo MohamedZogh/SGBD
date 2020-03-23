@@ -154,11 +154,11 @@ header{
     right: 0;
 }
 #container-left{
-     position: absolute;
-     bottom: 0;
-     left: 0;
-     width: 66%;
-     height:100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 66%;
+    height:100%;
 }
 #container-left h2 {
     position: absolute;
@@ -169,10 +169,10 @@ header{
     color: #333333;
     font-weight: bold;
 }
- #container-left h2 span:nth-child(2) {
-     color: #00FF00;
-     font-weight: bold;
- }
+#container-left h2 span:nth-child(2) {
+    color: #00FF00;
+    font-weight: bold;
+}
 #container-left h1{
     font-family: 'Lilita One', cursive;
     font-size: 3vw;
@@ -266,11 +266,11 @@ header{
     background-color: green;
 }
 .add-to-cart{
-   position: absolute;
+    position: absolute;
     right: 5vw;
 }
 #a
-/*_________________________________________GESTION PRODUITS_____________________________*/
+    /*_________________________________________GESTION PRODUITS_____________________________*/
 
 #products-body{
     background-color: #5a6d7c;
