@@ -1,0 +1,318 @@
+/*____________________Page Login____________________*/
+*{
+    box-sizing: border-box;
+    max-width:100%;
+}
+html {
+    scroll-behavior: smooth; /* scroll avec transition */
+}
+body{
+    width: 100vw;
+}
+#goutte-login{
+    z-index: 2;
+    width: 20vw;
+    position: absolute;
+    left: 10vw;
+    top: 10vh;
+}
+#plaine-login{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 80vw;
+    height: 50vh;
+    z-index: -1;
+}
+
+/*___________________________Login Form__________________________*/
+.login-box{
+    width: 320px;
+    height: 420px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.login-box p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.login-box input[type="text"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.login-box input[type="button"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1c8adb;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.login-box input[type="button"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+}
+
+.login-box a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #fff;
+}
+.login-box a:hover
+{
+    color: #39dc79;
+}
+
+/*__________________________________________HOME_____________________________________________________*/
+
+.navbar{
+    z-index: 3;
+    position: fixed;
+    width: 100vw;
+}
+.fa-shopping-basket{
+    font-size: 2vw !important;
+}
+.fa-shopping-basket:hover{
+    color: white;
+}
+header{
+    width: 100vw;
+    height: 100vh;
+}
+#background-home{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+#last-perfumes{
+    background-color: #333333;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+#container-last-perfumes{
+    width: 95vw;
+    height: 90vh;
+    background-color: #defff1;
+    position: relative;
+}
+#decoration-left{
+    width: 20vw;
+    height: 20vh;
+    background-color: #00FF00;
+    position: absolute;
+    bottom: 10vh;
+    left: 0;
+}
+#decoration-right{
+    width: 20vw;
+    height: 30vh;
+    background-color: #00FF00;
+    position: absolute;
+    top: 15vh;
+    right: 0;
+}
+#container-left{
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     width: 66%;
+     height:100%;
+}
+#container-left h2 {
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+}
+#container-left h2:first-child {
+    color: #333333;
+    font-weight: bold;
+}
+ #container-left h2 span:nth-child(2) {
+     color: #00FF00;
+     font-weight: bold;
+ }
+#container-left h1{
+    font-family: 'Lilita One', cursive;
+    font-size: 3vw;
+}
+#container-left h3{
+    position: absolute;
+    bottom: 0;
+    left: 1vw;
+    font-size: 11vw;
+    font-weight: bold;
+    color: #efefdb;
+}
+.js-visible{
+    position: absolute;
+    bottom: 0;
+}
+#carousel2{
+    position: absolute;
+    top: 25vh;
+    left: 10vw;
+}
+.container-detail-perfume h1{
+    text-align: left;
+}
+#carousel-perfume-prix{
+    position: absolute;
+    bottom: -10vh;
+    right: 0;
+    font-weight: bold;
+    font-size: 3vw;
+}
+#container-right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 34%;
+    height:100%;
+    background-color: #444444;
+}
+#container-right h1{
+    font-size: 4vw;
+}
+.carousel{
+    z-index: 2;
+    position: absolute;
+    top: 20vh;
+    right: 13vw;
+}
+.carousel-item img{
+    height: 40vh !important;
+    position: relative;
+}
+.carousel-inner{
+    width: 27vw;
+    height: 55vh;
+}
+.carousel-indicators li{
+    background-color: #00FF00 !important;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    background-image: none;
+}
+.carousel-control-next-icon:before
+{
+    content: '>';
+    font-size: 55px;
+    font-weight: 600;
+    color: #00FF00;
+}
+
+.carousel-control-prev-icon:before {
+    content: '<';
+    font-size: 55px;
+    font-weight: 600;
+    color: #00FF00;
+}
+
+.js-invisible{
+    visibility: hidden;
+}
+/*_____________________________________MODAL________________________________*/
+.modal-header button[type='button'].btn{
+    margin-left: 1vw;
+}
+.liste-user:hover{
+    background-color: green;
+}
+.add-to-cart{
+   position: absolute;
+    right: 5vw;
+}
+#a
+/*_________________________________________GESTION PRODUITS_____________________________*/
+
+#products-body{
+    background-color: #5a6d7c;
+}
+#container-products{
+    margin-left: 5vw;
+    box-shadow: 10px 10px 18px 10px #888888;
+    width: 90vw;
+    background-color: white;
+}
+#products{
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+    flex-wrap: wrap;
+    padding: 2vh 0 2vh 0;
+}
+.card{
+    background-color: #a56130;
+    width: 20vw!important;
+    margin-bottom: 2vh;
+    position: relative;
+}
+.card:hover{
+    cursor: pointer;
+}
+.card-img-top{
+    height: 35vh;
+}
+.card-text{
+    height: 10vh;
+    overflow-y: scroll;
+}
+#addToCart{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#card-price{
+    position: absolute;
+    bottom: 0.2vh;
+    right: 0.4vw;
+    font-size: 1vw;
+    font-weight: bold;
+}

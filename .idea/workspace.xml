@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50efab8c-e604-4bf6-b9b7-c9b0c4dd20b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Uk2L9ae8aTKbZinOaLapbj73fx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\IT-akademy\Parfumerie\Controller" />
+      <recent name="C:\xampp\htdocs\IT-akademy\Parfumerie\Controller\Parfums" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50efab8c-e604-4bf6-b9b7-c9b0c4dd20b7" name="Default Changelist" comment="" />
+      <created>1575886213512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575886213512</updated>
+      <workItem from="1575886214661" duration="13443000" />
+      <workItem from="1575967932691" duration="30456000" />
+      <workItem from="1576053316162" duration="718000" />
+      <workItem from="1576055204027" duration="13833000" />
+      <workItem from="1576099316484" duration="3942000" />
+      <workItem from="1576103699449" duration="9000" />
+      <workItem from="1576138079590" duration="20674000" />
+      <workItem from="1576186801007" duration="7510000" />
+      <workItem from="1576232127073" duration="6965000" />
+      <workItem from="1576248414037" duration="26484000" />
+      <workItem from="1576279225145" duration="19000" />
+      <workItem from="1576279275630" duration="1379000" />
+      <workItem from="1576307401570" duration="11019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576261644706">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576261644706" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1576269700237">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1576269700237" />
+    <state x="795" y="502" width="349" height="146" key="NewPhpFileDialog" timestamp="1576318858352">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="795" y="456" width="349" height="146" key="NewPhpFileDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1576074676630" />
+    <state x="795" y="502" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576318858352" />
+    <state width="498" height="405" key="SwitcherDM" timestamp="1576160901238">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="498" height="405" key="SwitcherDM/0.0.1920.1053@0.0.1920.1053" timestamp="1576160901238" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1160@0.0.1920.1160" timestamp="1576004510550" />
+    <state x="655" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1576307401959">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="655" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1576138476024" />
+    <state x="655" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576307401959" />
+    <state x="1064" y="36" width="1240" height="955" key="dock-window-1" timestamp="1576148694472">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="1064" y="36" width="1240" height="955" key="dock-window-1/0.0.1920.1053@0.0.1920.1053" timestamp="1576148694472" />
+    <state x="616" y="265" key="run.anything.popup" timestamp="1576247052961">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="265" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1576247052961" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1576194496296">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1576194496296" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Parfumerie/index.php</url>
+          <line>239</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
